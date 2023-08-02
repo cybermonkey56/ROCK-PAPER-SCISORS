@@ -1,2 +1,2 @@
 # ROCK-PAPER-SCISORS
-Welcome to an exciting game of Rock-Paper-Scissors, where you'll face off against a clever computer opponent! 
+Welcome to an exciting game of Rock-Paper-Scissors, where you'll face off against a clever computer opponent! Challenge yourself to make strategic choices as the computer randomly selects its moves. This engaging web application features a seamless blend of CSS, HTML, and JavaScript, all skillfully combined to deliver a captivating gaming experience. Enjoy the competition while keeping track of your score as you strive for victory in this classic showdown of wits!
